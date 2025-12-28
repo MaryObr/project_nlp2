@@ -7,3 +7,6 @@
 1) Ultimatum - ультиматум
 2) Negotiation -- переговоры (DealOrNoDeal)
 3) Matrux -- матричные игры
+
+
+Весь код находится в тетрадке project_nlp2.ipynb, она разделена на части 1. Запросы к LLM, 2. RL + оценка 
